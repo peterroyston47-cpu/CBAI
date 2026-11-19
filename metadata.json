@@ -1,0 +1,6 @@
+{
+  "name": "TensorLedger",
+  "description": "Decentralized AI blockchain protocol for securely trading model weights, compute clusters, datasets, agents, and inference credits across multiple protocols.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
